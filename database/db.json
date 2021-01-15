@@ -1,14 +1,24 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "date": "2021-01-12T03:20:41.718Z",
-            "name": "Meja Lipat",
-            "serial": 1682697,
-            "stock": 6,
-            "category": "Furniture",
-            "price": 567890,
-            "status": "avaiable"
-          }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Meja Lipat",
+      "serial": 1682697,
+      "stock": 6,
+      "category": "Furniture",
+      "price": 567890,
+      "status": "avaiable"
+    },
+    {
+      "date": "1/16/2021, 7:00:00 AM",
+      "name": "Kursi Gaming",
+      "serial": 1610755200000,
+      "stock": "1",
+      "category": "Furniture",
+      "price": "10000000",
+      "status": "available",
+      "id": 2
+    }
+  ]
 }
